@@ -18,7 +18,8 @@
 - 💬 Ask me about **Java, Web Development.** 
 - ⚡ Fun fact: When I'm not coding, you'll probably find me playing PC games. <br>
 
-## 🌐 Socials:
+## 🌐 Socials <img width="30" height="30" alt="pikachu" src="https://github.com/user-attachments/assets/f0cf5eb5-978d-4a2b-b5cb-a2848047467c" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rashmi-kumari-choudhary/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rashmichoudhary019) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rashmichoudhary019@gmail.com) 
 
 # 💻 Tech Stack:
