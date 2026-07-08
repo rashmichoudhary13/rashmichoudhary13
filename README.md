@@ -29,16 +29,17 @@
 ![](https://streak-stats.demolab.com/?user=rashmichoudhary13&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rashmichoudhary13&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🏅 Badge
+<img width="150" height="150" alt="Initiator_Card" src="https://github.com/user-attachments/assets/8c7d5b54-9bf9-4e9a-a7d9-a1481edf6571" display="inline"/>
+<img width="150" height="150" alt="Collaborator" src="https://github.com/user-attachments/assets/4032dcc8-bef9-4ac0-9cbb-b9e50206d74a" />
+
+
 Check out my WallPins Badge Card! 🎉
 
 https://wallpins.onrender.com/GithubCards/2.png
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
