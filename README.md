@@ -1,27 +1,12 @@
 # 💫 About Me
 
-<table>
-<tr>
-<td width="65%">
+<img align="right" src="sideGif.gif" width="250" alt="Coding GIF" padding-top="20px" />
 
 - 🔭 I'm currently working on **HackJudge** – an AI-powered hackathon judge that helps participants practice project pitching, answer technical questions, receive intelligent feedback, and build presentation confidence.
-- 👯 I’m looking to collaborate on **Full Stack Development, AI-powered applications, Open Source Projects.**
+- 👯 I’m looking to collaborate on **Full Stack Development, Open Source Projects.**
 - 🌱 I’m currently learning **DSA, System Design, Generative AI.**
 - 💬 Ask me about **Java, Web Development.**
-- ⚡ Fun fact: When I'm not coding, you'll probably find me playing PC games. 🎮
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="sideGif.gif" width="250"/>
-
-</td>
-
-
-</tr>
-</table>
-
+- ⚡ Fun fact: When I'm not coding, you'll probably find me playing PC games. 🎮 <br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rashmi-kumari-choudhary/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rashmichoudhary019) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rashmichoudhary019@gmail.com) 
