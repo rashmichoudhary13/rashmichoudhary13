@@ -1,10 +1,11 @@
 <img src="githubBanner.png" width="100%" alt="Banner"/>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Rashmi+Choudhary;MERN+Stack+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=500&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+There!;I'm+Rashmi+Choudhary;MERN+Stack+Developer"/>
+  </a>
 </p>
 
-<hr>
 
 # 💫 About Me
 
