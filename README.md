@@ -6,13 +6,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashmichoudhary13&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views"/>
-</p>
-
 ---
 
-## 💫 About Me
+## 💫 About Me <img width="30" height="30" alt="pikachu" src="https://github.com/user-attachments/assets/f0cf5eb5-978d-4a2b-b5cb-a2848047467c" />
 
 <img align="right" src="sideGif.gif" width="250" alt="Coding GIF"/>
 
