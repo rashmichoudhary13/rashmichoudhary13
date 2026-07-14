@@ -25,16 +25,23 @@
 
 ## 🌐 Connect With Me
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/rashmi-kumari-choudhary/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="80px" widht="80px"/>
   </a>
+    &nbsp;&nbsp;
   <a href="https://medium.com/@rashmichoudhary019" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"/>
   </a>
+    &nbsp;&nbsp;
   <a href="mailto:rashmichoudhary019@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
+    &nbsp;&nbsp;
+  <a href="https://www.rashmi.xyz/">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
 ---
