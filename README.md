@@ -48,6 +48,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frontend**
 
@@ -106,7 +107,3 @@ Check out my WallPins Badge Card 🎉 → [View Card](https://wallpins.onrender.
 </p>
 
 ---
-
-<p align="center">
-  <sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
-</p>
